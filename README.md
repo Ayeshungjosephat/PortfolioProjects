@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Josephat]
+## 👋 Hi, I'm Josephat
 🎯 Data Analyst | Excel • SQL • Python • Power BI • Tableau
 
 ## 🔧 Tools & Technologies
