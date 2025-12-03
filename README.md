@@ -10,7 +10,7 @@
 
 - ## 📂 Featured Projects
 
-### 🔹 [Sales Dashboard in Excel](https://github.com/yourusername/sales-dashboard-excel)
+### 🔹 [Sales Dashboard in Excel](https://github.com/Ayeshungjosephat/Sales-data-analysis-dashboard)
 - Created a 2-year sales trend dashboard using PivotTables, Charts, and Slicers.
 - Identified top-performing products and sales spikes.
 
