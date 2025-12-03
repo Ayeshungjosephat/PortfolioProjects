@@ -14,9 +14,8 @@
 - Created a 2-year sales trend dashboard using PivotTables, Charts, and Slicers.
 - Identified top-performing products and sales spikes.
 
-### 🔹 [Olympics Data Analysis](https://github.com/yourusername/olympics-sql-powerbi)
-- Used SQL to clean and analyze historical Olympics data.
-- Built an interactive Power BI dashboard to visualize country performance.
+### 🔹 [Customer Reward Tracking](https://github.com/Ayeshungjosephat/Customer-reward-tracking)
+- Track and manage customer rewards with automatic updates, user verification, analytics, and multi-country support.
 
 ### 🔹 [COVID-19 Global Tracker](https://github.com/Ayeshungjosephat/PortfolioProjects/blob/main/Covid19%20deaths%20portfolio%20Project.sql)
 - Sourced global COVID-19 data.
