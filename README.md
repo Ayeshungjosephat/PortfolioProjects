@@ -18,10 +18,10 @@
 - Used SQL to clean and analyze historical Olympics data.
 - Built an interactive Power BI dashboard to visualize country performance.
 
-### 🔹 [COVID-19 Global Tracker](https://github.com/yourusername/covid-dashboard-tableau)
+### 🔹 [COVID-19 Global Tracker](https://github.com/Ayeshungjosephat/PortfolioProjects/blob/main/Covid19%20deaths%20portfolio%20Project.sql)
 - Sourced global COVID-19 data.
 - Built Tableau dashboard with country-level trends, death rates, and recovery comparisons.
 
-### 🔹 [Taxi Trip Data (NYC)](https://github.com/yourusername/nyc-taxi-analysis)
+### 🔹 [Taxi Trip Data (NYC)](https://github.com/Ayeshungjosephat/NYC_Taxi-Trip-Analysis)
 - Cleaned and analyzed large datasets using Python and SQL.
 - Focused on trip duration, pickup locations, and fare optimization.
