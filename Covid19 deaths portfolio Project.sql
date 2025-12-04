@@ -9,7 +9,7 @@ ORDER BY 1,2
 
 -- Total cases Vs Total deaths 
 -- Shows Likelihood of dying if you contract covid in your country
-SELECT location, date, total_cases, total_deaths, (total_deaths/total_cases)*100 AS DeathsPercentage
+SELECT location, date, total_cases, total_deaths, (total_deaths/NULLIF(total_cases,0))*100 AS DeathsPercentage
 FROM Coviddeathsnew$
 -- WHERE LOCATION LIKE '%STATE%'
 ORDER BY 1,2
@@ -139,3 +139,4 @@ WHERE dea.continent IS NOT NULL
 
 SELECT *
 FROM percentPopulationVaccinated
+
