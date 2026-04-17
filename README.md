@@ -24,3 +24,6 @@
 ### 🔹 [Taxi Trip Data (NYC)](https://github.com/Ayeshungjosephat/NYC_Taxi-Trip-Analysis)
 - Cleaned and analyzed large datasets using Python and SQL.
 - Focused on trip duration, pickup locations, and fare optimization.
+
+### 🔹 [E-Commerce marketing analysis)](https://github.com/Ayeshungjosephat/E-commerce-marketing-analysis)
+- This project analyzes multi-channel marketing performance for an e-commerce business, with the goal of improving return on ad spend (ROAS), optimizing budget allocation, and identifying growth opportunities.
